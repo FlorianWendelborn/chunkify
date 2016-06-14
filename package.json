@@ -1,0 +1,21 @@
+{
+  "name": "chunkify",
+  "version": "0.0.1",
+  "description": "Merges similar pixels into huge pixels",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dodekeract/chunkify.git"
+  },
+  "author": "Florian Wendelborn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dodekeract/chunkify/issues"
+  },
+  "homepage": "https://github.com/dodekeract/chunkify#readme",
+  "dependencies": {
+    "canvas": "^1.3.16",
+    "png-coder": "^0.2.1"
+  }
+}
